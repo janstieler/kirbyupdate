@@ -1,0 +1,21 @@
+{
+    "name": "kdjfs/kirbyupdate",
+    "description": "Kirby Update Plugin",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kommunikationsdesign Jan-Frederik Stieler",
+            "email": "kontakt@janstieler.de"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "knplabs/github-api": "^3.0",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "http-interop/http-factory-guzzle": "^1.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
