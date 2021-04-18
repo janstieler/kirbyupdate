@@ -1,3 +1,5 @@
+> :warning: **This Repository is in development!**
+
 # Kirby Pluginkit: Example plugin for Kirby
 
 > Variant "Basic setup"
